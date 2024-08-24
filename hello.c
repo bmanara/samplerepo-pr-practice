@@ -2,7 +2,8 @@
 
 int main(void) 
 {
-	printf("Hello World");
+	String text = "Hello World";
+	printf("%s", text);
 
 	return 0;
 }
